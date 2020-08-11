@@ -1,0 +1,22 @@
+\babel@toc {polish}{}
+\contentsline {chapter}{\numberline {1}Wst\IeC {\k e}p}{3}{chapter.1}
+\contentsline {section}{\numberline {1.1}Cel pracy}{3}{section.1.1}
+\contentsline {section}{\numberline {1.2}Zawarto\IeC {\'s}\IeC {\'c} pracy}{3}{section.1.2}
+\contentsline {chapter}{\numberline {2}Modelowanie manipulatora IRb-6}{5}{chapter.2}
+\contentsline {section}{\numberline {2.1}Zasada Najmniejszego Dzia\IeC {\l }ania}{5}{section.2.1}
+\contentsline {section}{\numberline {2.2}Dynamika manipulatora IRb-6}{6}{section.2.2}
+\contentsline {section}{\numberline {2.3}Kinematyka manipulatora IRb-6 wed\IeC {\l }ug Denavita-Hartenberga}{10}{section.2.3}
+\contentsline {chapter}{\numberline {3}Algorytm odsprz\IeC {\k e}gania wej\IeC {\'s}ciowo-wyj\IeC {\'s}ciowego}{13}{chapter.3}
+\contentsline {section}{\numberline {3.1}Afiniczny uk\IeC {\l }ad sterowania}{13}{section.3.1}
+\contentsline {section}{\numberline {3.2}Konfiguracje osobliwe manipulatora IRb-6}{14}{section.3.2}
+\contentsline {section}{\numberline {3.3}Sterowanie odsprz\IeC {\k e}gaj\IeC {\k a}ce i linearyzuj\IeC {\k a}ce}{16}{section.3.3}
+\contentsline {chapter}{\numberline {4}Sterowanie uk\IeC {\l }adem odsprz\IeC {\k e}\IeC {\.z}onym}{21}{chapter.4}
+\contentsline {section}{\numberline {4.1}Generator trajektorii zadanej}{21}{section.4.1}
+\contentsline {section}{\numberline {4.2}Regulacja PD z korekcj\IeC {\k a}}{22}{section.4.2}
+\contentsline {chapter}{\numberline {5}Badania symulacyjne}{25}{chapter.5}
+\contentsline {section}{\numberline {5.1}Warunki symulacyjne}{25}{section.5.1}
+\contentsline {section}{\numberline {5.2}Ruch prostoliniowy}{26}{section.5.2}
+\contentsline {section}{\numberline {5.3}Ruch po trajektorii w kszta\IeC {\l }cie kwadratu}{32}{section.5.3}
+\contentsline {section}{\numberline {5.4}Ruch \IeC {\'s}rubowy}{34}{section.5.4}
+\contentsline {chapter}{\numberline {6}Podsumowanie}{37}{chapter.6}
+\contentsline {chapter}{Bibliografia}{37}{chapter.6}
